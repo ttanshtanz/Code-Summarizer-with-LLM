@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/tanytania_t/.theia/workspace-storage/3b6db899ed12298fd970272c25749dc8/redhat.java/.f276e6b84a2e08fa63de21b74d23c25500f02d64-audit.json",
+    "files": [
+        {
+            "date": 1699790381613,
+            "name": "/home/tanytania_t/.theia/workspace-storage/3b6db899ed12298fd970272c25749dc8/redhat.java/client.log.2023-11-12",
+            "hash": "f54b8e338b382b2807539d7e6a2a63bf"
+        }
+    ]
+}
